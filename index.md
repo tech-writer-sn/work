@@ -1,16 +1,12 @@
-GitHub User Guide
+Mite User Guide
 =================
 
-What is GitHub?
+What is Mite?
 ---------------
 
-GitHub is an online platform for collaborative projects that uses the Git version control system. GitHub is similiar to cloud-based platforms such as Dropbox and Box
-in that files exist in the cloud, but users download and edit files on their local computers. In this way, files can easily be shared across users. GitHub is distinct in the way
-in which it tracks and stores changes to files. GitHub creates a new version of a file only when a user 'commits' a change, and writes an accompanying descriptive message.
-GitHub also allows easy comparison of changes across different versions, and allows users to revert back to them. Finally, GitHub offers a well developed platform for commenting on code
-and tracking various issues that arise in collaborating on files. GitHub is used by a wide variety of organizations, hosts a large number of open-sourced projects and also has a very active help community.
+Mite is an online platform for blalalala.
 
-Installing Software
+Introduction
 -------------------
 
 - Sign up for GitHub [here](https://github.com/signup/free), creating a username and password
